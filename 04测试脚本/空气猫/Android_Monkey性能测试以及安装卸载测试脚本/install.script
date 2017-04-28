@@ -1,0 +1,7 @@
+# Start of Script 
+start data >>  
+captureDispatchPointer(0,0,0,185,1204,0,0,0,0,0,0,0)
+UserWait(500)
+DispatchPointer(0,0,1,185,1204,0,0,0,0,0,0,0)   
+UserWait(1000)
+
